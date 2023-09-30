@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class Input {
 
+	//default constructor
     public Input(){
 
     }
