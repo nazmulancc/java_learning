@@ -4,6 +4,7 @@ public class Enrolment {
     private Student student;
     private Unit unit[];
 
+	//default constructor
     public Enrolment(){
         date = "Unknown";
         student = new Student();

@@ -10,6 +10,7 @@ import java.util.Scanner;
 public class FileIO {
     private String fileName;
 
+	//default constructor
     public FileIO(){
         fileName = "";
     }
