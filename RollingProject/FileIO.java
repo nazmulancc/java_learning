@@ -14,8 +14,6 @@ public class FileIO {
     public FileIO(){
         fileName = "";
     }
-
-	//constructor to set the file name
     public FileIO(String newFileName) {
         fileName = newFileName;
     }

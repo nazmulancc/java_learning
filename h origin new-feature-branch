@@ -1,0 +1,38 @@
+[33mcommit 91136ac1cd92cc602bc4d7ec07e961bf7209e073[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/new-feature-branch[m[33m, [m[1;31morigin/feature/new-feature-branch[m[33m)[m
+Author: Nazmul Hasan <nazmul.ancc@gmail.com>
+Date:   Sat Sep 30 18:22:04 2023 +1000
+
+    Implementing a second feature branch
+
+[33mcommit e2a42b7c2a00c97c6d05a1c8fd738e8a899f29c9[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 78d9db2 487f4b5
+Author: nazmulancc <64115161+nazmulancc@users.noreply.github.com>
+Date:   Sat Sep 30 14:01:41 2023 +1000
+
+    Merge pull request #1 from nazmulancc/feature/new-feature
+    
+    Implement new feature.
+
+[33mcommit 487f4b53d0bc791dc95f1a5282d73a817417fdb9[m
+Author: Nazmul Hasan <nazmul.ancc@gmail.com>
+Date:   Sat Sep 30 13:52:02 2023 +1000
+
+    Implement new feature
+
+[33mcommit 78d9db24afa5470e1c1a7d695eaaade7229e3d58[m
+Author: Nazmul Hasan <nazmul.ancc@gmail.com>
+Date:   Sat Sep 30 13:23:36 2023 +1000
+
+    2nd commit after update on SSH and minor change in code
+
+[33mcommit 818a3b5ae8669655af3ca0019c0bf3248c9e97eb[m
+Author: Nazmul Hasan <nazmul.ancc@gmail.com>
+Date:   Sat Sep 30 13:19:19 2023 +1000
+
+    Remove PracticeRepository from index
+
+[33mcommit a126ad0dd670f09b9d61503a6b1aea81664b47b9[m
+Author: Nazmul Hasan <nazmul.ancc@gmail.com>
+Date:   Mon Sep 25 20:10:39 2023 +1000
+
+    Initial commit
