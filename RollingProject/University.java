@@ -11,9 +11,9 @@ public class University {
         enrolment = new ArrayList<Enrolment>();
     }
 
-//    public University(Enrolment enrolment){
-//        this.enrolment = enrolment;
-//    }
+    public University(Enrolment enrolment){
+        this.enrolment = enrolment;
+    }
 
     public ArrayList<Enrolment> getEnrolment() {
         return enrolment;
