@@ -190,7 +190,7 @@ public class University {
                 Enrolment enrolment = new Enrolment();
                 inputStudentDetails(enrolment);
                 inputUnitDetails(enrolment);
-            //    enrolment.add(enrolment );
+                enrolment.add(enrolment );
             }
         display();
         }
